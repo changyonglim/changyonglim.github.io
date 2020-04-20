@@ -14,7 +14,7 @@
     ===================
 
     1.COMMON
-	2.HEADER
+	  2.HEADER
     3.ABOUT
     4.SERVICES
     4.CALL TO ACTION
@@ -732,7 +732,7 @@ p {
     content: '';
     width: 100%;
     height: 20px;
-    background-color: #754ef9;
+    /*background-color: #754ef9;*/
     left: 0;
     bottom: 58px;
     z-index: 11; }
